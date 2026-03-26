@@ -1,1 +1,1 @@
-See [docs/README.md](docs/README.md).
+See [infopoisk_plan.md](infopoisk_plan.md).
